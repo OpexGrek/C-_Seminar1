@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\Task4\\Task4.csproj": {}
+    "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\task4\\Task4.csproj": {}
   },
   "projects": {
-    "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\Task4\\Task4.csproj": {
+    "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\Task4\\Task4.csproj",
+        "projectUniqueName": "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\Task4\\Task4.csproj",
+        "projectPath": "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\starw\\.nuget\\packages\\",
-        "outputPath": "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\Task4\\obj\\",
+        "outputPath": "C:\\GeekBrains\\C#\\Lesson_seminar_homework_1\\task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\starw\\AppData\\Roaming\\NuGet\\NuGet.Config"
